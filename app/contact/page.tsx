@@ -14,14 +14,14 @@ const details = [
   {
     icon: Mail,
     label: 'Email',
-    value: 'hello@biola.studio',
-    href: 'mailto:hello@biola.studio',
+    value: 'abiolaajani1109@gmail.com',
+    href: 'abiolaajani1109@gmail.com',
   },
   {
     icon: Phone,
     label: 'Phone / WhatsApp',
-    value: '+1 (555) 012-3456',
-    href: 'tel:+15550123456',
+    value: '+234 7070449718',
+    href: 'tel:+234 7070449718',
   },
   {
     icon: MapPin,
